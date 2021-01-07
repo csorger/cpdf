@@ -1,4 +1,8 @@
 {
     "python.formatting.provider": "black",
-    "python.pythonPath": "/Users/sorger-c/.virtualenvs/cpdf/bin/python"
+    "python.pythonPath": "/Users/sorger-c/.virtualenvs/cpdf/bin/python",
+    "files.exclude": {
+        "**/.gitignore": true,
+        "**/.vscode": true
+    }
 }
